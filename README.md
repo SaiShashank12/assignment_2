@@ -1,1 +1,1 @@
-# assignment_2
+# Code Challenge Template
